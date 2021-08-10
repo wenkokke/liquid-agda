@@ -1,0 +1,3 @@
+name: liquid
+depend: standard-library schmitty
+include: src
